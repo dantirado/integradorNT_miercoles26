@@ -1,29 +1,29 @@
-# 🧠📊 neoAPP - Módulo de Análisis de Datos con Python
+# 🧠📊 GILGAL - Módulo de Análisis de Datos con Python
 
 ##daniel tirado acevedo
 ##lorena ruiz perez
 
 ## 🚀 Descripción
 
-**neoAPP** es un proyecto educativo enfocado en integrar tecnologías modernas para el desarrollo de soluciones full stack, combinando:
+**GILGAL** es un proyecto educativo orientado al desarrollo de una solución **full stack** para la gestión y control de **gastos hormiga** 💸, integrando:
 
 - 🐍 Análisis de datos con Python  
 - ⚛️ Frontend en React  
 - ☕ Backend con Spring Boot  
 
-Este repositorio contiene el módulo de **análisis de datos**, cuyo objetivo es procesar, transformar y generar insights sobre los **gastos hormiga** de una persona 💸.
+Este repositorio corresponde al módulo de **análisis de datos**, encargado de procesar, transformar y analizar información financiera personal para generar **insights accionables** 📈.
 
-A través del uso de herramientas como **Pandas**, se busca identificar patrones de consumo, hábitos financieros y oportunidades de ahorro 📉.
+El enfoque principal es identificar patrones de consumo, detectar fugas de dinero y apoyar la toma de decisiones financieras inteligentes 🧾.
 
 ---
 
 ## 🎯 Objetivos del módulo
 
 - 📌 Limpieza y transformación de datos financieros  
-- 📊 Análisis exploratorio de gastos  
-- 📈 Generación de métricas clave (KPIs)  
+- 📊 Análisis exploratorio de gastos (EDA)  
+- 📈 Generación de indicadores clave (KPIs)  
 - 🔍 Identificación de patrones de consumo  
-- 🤖 Preparación de datos para futuras integraciones con modelos predictivos  
+- 🧠 Preparación de datos para integraciones futuras (APIs / modelos predictivos)  
 
 ---
 
@@ -31,20 +31,18 @@ A través del uso de herramientas como **Pandas**, se busca identificar patrones
 
 - 🐍 Python 3.x  
 - 📊 Pandas  
-- 🔢 NumPy (opcional)  
-- 📉 Matplotlib / Seaborn (opcional)  
+- 🔢 NumPy  
+- 📉 Matplotlib / Seaborn (visualización opcional)  
 
 ---
 
 ## ⚙️ Instalación
 
-Sigue estos pasos para configurar el entorno:
-
 ### 1️⃣ Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/neoapp-python.git
-cd neoapp-python
+git clone https://github.com/tu-usuario/gilgal-python.git
+cd gilgal-python
 
 pip install pandas numpy matplotlib seaborn
 
