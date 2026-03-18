@@ -1,7 +1,9 @@
 # 🧠📊 GILGAL - Módulo de Análisis de Datos con Python
 
-##daniel tirado acevedo
-##lorena ruiz perez
+# Hola soy daniel 
+
+## daniel tirado acevedo
+## lorena ruiz perez
 
 ## 🚀 Descripción
 
