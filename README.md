@@ -1,7 +1,9 @@
+# Hola soy Lorena
 # 🧠📊 GILGAL - Módulo de Análisis de Datos con Python
 
 ##daniel tirado acevedo
 ##lorena ruiz perez
+
 
 ## 🚀 Descripción
 
